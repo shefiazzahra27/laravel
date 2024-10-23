@@ -77,7 +77,7 @@
                         <p>Yang Jungwon</p>
                     </div>
                     <div class="kartu-tutor">
-                        <img src="assets/image/7.jpeg"/>
+                        <img src="assets/   image/7.jpeg"/>
                         <p>Nishimura Riki</p>
                 </div>
             </div>

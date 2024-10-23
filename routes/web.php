@@ -10,6 +10,10 @@ Route::get('/welcome', function () {
     return view('welcome');
 });
 
+Route::get('/login', function () {
+    return view('login');
+});
+
 Route::get('/about', function () {
-    return view('Tentang Que');
+    return view('about');
 });
